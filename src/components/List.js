@@ -46,7 +46,7 @@ export const List = () => {
                                 <td>{est.name}</td>
                                 <td><img src={est.image} alt="" width="80" height="80"/></td>
                                 <td>{est.description}</td>
-                                <td>{est.price}</td>
+                                <td>$ {est.price}</td>
                                 <td><button onClick={() => deleteData(est.id)}>Delete</button></td>
                              </tr>
                          ))

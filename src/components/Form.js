@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import '../styles/Form.css';
 import axios from 'axios'
 import { url } from '../helpers/url';
-import { fileUpload } from '../helpers/fileUpload';
+
 
 
 export const Form = () => {
