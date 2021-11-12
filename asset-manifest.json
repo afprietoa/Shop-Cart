@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/exsTechTest-121121/static/css/main.5ac786c8.chunk.css",
-    "main.js": "/exsTechTest-121121/static/js/main.185aab0c.chunk.js",
-    "main.js.map": "/exsTechTest-121121/static/js/main.185aab0c.chunk.js.map",
+    "main.js": "/exsTechTest-121121/static/js/main.298aad25.chunk.js",
+    "main.js.map": "/exsTechTest-121121/static/js/main.298aad25.chunk.js.map",
     "runtime-main.js": "/exsTechTest-121121/static/js/runtime-main.668bf417.js",
     "runtime-main.js.map": "/exsTechTest-121121/static/js/runtime-main.668bf417.js.map",
-    "static/js/2.c697de79.chunk.js": "/exsTechTest-121121/static/js/2.c697de79.chunk.js",
-    "static/js/2.c697de79.chunk.js.map": "/exsTechTest-121121/static/js/2.c697de79.chunk.js.map",
+    "static/js/2.6a57287f.chunk.js": "/exsTechTest-121121/static/js/2.6a57287f.chunk.js",
+    "static/js/2.6a57287f.chunk.js.map": "/exsTechTest-121121/static/js/2.6a57287f.chunk.js.map",
     "index.html": "/exsTechTest-121121/index.html",
     "static/css/main.5ac786c8.chunk.css.map": "/exsTechTest-121121/static/css/main.5ac786c8.chunk.css.map",
-    "static/js/2.c697de79.chunk.js.LICENSE.txt": "/exsTechTest-121121/static/js/2.c697de79.chunk.js.LICENSE.txt"
+    "static/js/2.6a57287f.chunk.js.LICENSE.txt": "/exsTechTest-121121/static/js/2.6a57287f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.668bf417.js",
-    "static/js/2.c697de79.chunk.js",
+    "static/js/2.6a57287f.chunk.js",
     "static/css/main.5ac786c8.chunk.css",
-    "static/js/main.185aab0c.chunk.js"
+    "static/js/main.298aad25.chunk.js"
   ]
 }
